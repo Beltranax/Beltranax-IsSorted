@@ -13,6 +13,7 @@ public class IsSorted {
             if (arr[i] > arr[i + 1])
                 return false;
         }
+        
         return true;
     }
 }
